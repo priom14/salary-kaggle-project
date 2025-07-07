@@ -1,0 +1,11 @@
+mlflow
+pandas 
+numpy
+joblib
+python-box
+pyYAML
+Flask
+Flask-cors
+ensure
+tqdm
+types-PyYAML
