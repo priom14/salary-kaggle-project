@@ -15,7 +15,7 @@ list_of_files = [
     "src/constants/__init__.py",
     "src/entity/config_entity.py",
     "src/entity/__init__.py",
-    "noteboo/play.ipynb",
+    "notebook/play.ipynb",
     "config/config.yaml",
     "app.py",
     "main.py",
