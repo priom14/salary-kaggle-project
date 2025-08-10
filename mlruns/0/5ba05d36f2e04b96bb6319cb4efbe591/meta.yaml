@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML/Data%20SC/ML/MLOPS%20try%20project/salary-kaggle-project/mlruns/0/5ba05d36f2e04b96bb6319cb4efbe591/artifacts
+end_time: 1754835122373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba05d36f2e04b96bb6319cb4efbe591
+run_name: receptive-boar-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754835116713
+status: 3
+tags: []
+user_id: HP

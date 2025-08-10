@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ML/Data%20SC/ML/MLOPS%20try%20project/salary-kaggle-project/mlruns/0/models/m-6069d9651b334836a2b63091cc0ca4f7/artifacts
+creation_timestamp: 1754835116811
+experiment_id: '0'
+last_updated_timestamp: 1754835122362
+model_id: m-6069d9651b334836a2b63091cc0ca4f7
+model_type: null
+name: model
+source_run_id: 5ba05d36f2e04b96bb6319cb4efbe591
+status: 2
+status_message: null
