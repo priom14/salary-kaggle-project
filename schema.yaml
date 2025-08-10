@@ -9,7 +9,8 @@ COLUMNS:
   remote_ratio:            int64 
   company_location:        object
   company_size:            object
+  salary_in_usd:           int64
 
 
 TARGET_COLUMN:
-  salary_in_usd:           int64
+  name: salary_in_usd

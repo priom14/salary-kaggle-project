@@ -17,3 +17,20 @@ class DataValidationConfig:
     STATUS_FILE: str
     all_schema: dict
     
+
+@dataclass
+class DataTransformationConfig:
+    root_dir: Path
+    data_dir: Path
+    
+@dataclass
+class ModelTrainerConfig:
+    root_dir: Path
+    train_x_path: Path
+    train_y_path: Path
+    test_x_path: Path
+    test_y_path: Path
+    model_name: str
+    alpha: float
+    l1_ratio: float
+    target_column: str

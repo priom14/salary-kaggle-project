@@ -3,6 +3,7 @@
 ### Workflows--ML Pipline
 
 1. Data Ingestion
+2. Data Validation
 2. Data Transformation
 3. Model Trainer
 4. Model Evaluation
